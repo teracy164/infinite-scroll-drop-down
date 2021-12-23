@@ -4,5 +4,4 @@ module.exports = {
   ],
   // for GitHub Pages
   outputDir: 'docs',
-  publicPath: 'infinite-scroll-drop-down',
 }
